@@ -102,13 +102,7 @@ jupyter lab
 
 ## ▶️ Google Colab 실행 방법
 
-### 방법 1. GitHub에서 바로 열기
-1. 이 저장소를 GitHub에 업로드합니다.
-2. GitHub에서 `의료영상_의료인공지능_기초교육_v2.ipynb` 파일을 클릭합니다.
-3. 상단의 **Open in Colab** 버튼이 보이면 클릭합니다.  
-   또는 Colab에서 GitHub 저장소를 직접 열어도 됩니다.
-
-### 방법 2. Colab에 직접 업로드하기
+### 방법. Colab에 직접 업로드하기
 1. [Google Colab](https://colab.research.google.com/) 접속
 2. **파일 업로드(Upload notebook)** 선택
 3. `의료영상_의료인공지능_기초교육_v2.ipynb` 업로드
