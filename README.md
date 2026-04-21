@@ -26,6 +26,9 @@
 
 ## 🧠 Contents
 
+## 참고사항(유튜브 공부하기)
+https://www.youtube.com/channel/UC8UJKvDWhhIQCPFeLLufQDA
+
 ### 🔬 Part 1. Medical Imaging Basics
 - 의료영상 개념
 - 주요 영상 기법 비교 (X-ray, CT, MRI, Ultrasound, PET)
